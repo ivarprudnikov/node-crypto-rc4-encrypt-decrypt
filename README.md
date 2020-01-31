@@ -1,6 +1,8 @@
 php openssl_seal with RC4 equivalent in Node.js
 =======================================
 
+[![Node.js CI](https://github.com/ivarprudnikov/node-crypto-rc4-encrypt-decrypt/workflows/Node.js%20CI/badge.svg)](https://github.com/ivarprudnikov/node-crypto-rc4-encrypt-decrypt/actions)
+
 https://stackoverflow.com/questions/59971512
 
 Implementing RC4 encryption algorithm in Node.js which is analoguous to the one in PHP `openssl_seal` method:
