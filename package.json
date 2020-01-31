@@ -1,0 +1,14 @@
+{
+  "name": "ss-crypto",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/questions/59971512",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto"
+  ],
+  "author": "Aivaras Prudnikovas",
+  "license": "GPL-3.0-or-later"
+}
